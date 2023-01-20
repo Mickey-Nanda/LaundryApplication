@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LaundryApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LaundryApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\About_Us.html",
+      "PackagePath": "staticwebassets\\About_Us.html"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\about_us.css",
+      "PackagePath": "staticwebassets\\css\\about_us.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\about_us.css.map",
+      "PackagePath": "staticwebassets\\css\\about_us.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\about_us.scss",
+      "PackagePath": "staticwebassets\\css\\about_us.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\awselect.css",
+      "PackagePath": "staticwebassets\\css\\awselect.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\awselect.css.map",
+      "PackagePath": "staticwebassets\\css\\awselect.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\awselect.css~",
+      "PackagePath": "staticwebassets\\css\\awselect.css~"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\awselect.min.css",
+      "PackagePath": "staticwebassets\\css\\awselect.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\awselect.scss",
+      "PackagePath": "staticwebassets\\css\\awselect.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\checkout.css",
+      "PackagePath": "staticwebassets\\css\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\checkout.css.map",
+      "PackagePath": "staticwebassets\\css\\checkout.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\checkout.scss",
+      "PackagePath": "staticwebassets\\css\\checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\checkout_with_account.css",
+      "PackagePath": "staticwebassets\\css\\checkout_with_account.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\checkout_with_account.css.map",
+      "PackagePath": "staticwebassets\\css\\checkout_with_account.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\checkout_with_account.scss",
+      "PackagePath": "staticwebassets\\css\\checkout_with_account.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\img\\creaseart_head.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\creaseart_head.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\img\\search-icon.png",
+      "PackagePath": "staticwebassets\\css\\img\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\index.css.map",
+      "PackagePath": "staticwebassets\\css\\index.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\index.scss",
+      "PackagePath": "staticwebassets\\css\\index.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\myaccount.css",
+      "PackagePath": "staticwebassets\\css\\myaccount.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\myaccount.css.map",
+      "PackagePath": "staticwebassets\\css\\myaccount.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\myaccount.scss",
+      "PackagePath": "staticwebassets\\css\\myaccount.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\vendor-list.css",
+      "PackagePath": "staticwebassets\\css\\vendor-list.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\vendor-list.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor-list.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\vendor-list.scss",
+      "PackagePath": "staticwebassets\\css\\vendor-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\vendor.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\css\\vendor.scss",
+      "PackagePath": "staticwebassets\\css\\vendor.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\Antiseptic@3x.png",
+      "PackagePath": "staticwebassets\\img\\Antiseptic@3x.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\app-icon.png",
+      "PackagePath": "staticwebassets\\img\\app-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\app-screenshot.png",
+      "PackagePath": "staticwebassets\\img\\app-screenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\apple-ios-badge.png",
+      "PackagePath": "staticwebassets\\img\\apple-ios-badge.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\creaseart_head.jpg",
+      "PackagePath": "staticwebassets\\img\\creaseart_head.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\creaseart_logo.png",
+      "PackagePath": "staticwebassets\\img\\creaseart_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\delivery-guy.png",
+      "PackagePath": "staticwebassets\\img\\delivery-guy.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\dry_cleaning_icon.png",
+      "PackagePath": "staticwebassets\\img\\dry_cleaning_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\emulsifier_icon@3x.png",
+      "PackagePath": "staticwebassets\\img\\emulsifier_icon@3x.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\feedback_delivery_icon.png",
+      "PackagePath": "staticwebassets\\img\\feedback_delivery_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\google-play-badge.png",
+      "PackagePath": "staticwebassets\\img\\google-play-badge.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\laundry_icon.png",
+      "PackagePath": "staticwebassets\\img\\laundry_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\neutralizer_icon@3x.png",
+      "PackagePath": "staticwebassets\\img\\neutralizer_icon@3x.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\soap_bubbles.png",
+      "PackagePath": "staticwebassets\\img\\soap_bubbles.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\softner_icon@3x.png",
+      "PackagePath": "staticwebassets\\img\\softner_icon@3x.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\spinner.png",
+      "PackagePath": "staticwebassets\\img\\spinner.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\img\\wash_and_iron_icon.png",
+      "PackagePath": "staticwebassets\\img\\wash_and_iron_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\awselect.js",
+      "PackagePath": "staticwebassets\\js\\awselect.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\awselect.min.js",
+      "PackagePath": "staticwebassets\\js\\awselect.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\checkout.js",
+      "PackagePath": "staticwebassets\\js\\checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\js\\vendorDetails.js",
+      "PackagePath": "staticwebassets\\js\\vendorDetails.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\particles.js-master\\particles.js-master\\.gitignore",
+      "PackagePath": "staticwebassets\\particles.js-master\\particles.js-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\particles.js-master\\particles.js-master\\LICENSE.md",
+      "PackagePath": "staticwebassets\\particles.js-master\\particles.js-master\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\particles.js-master\\particles.js-master\\README.md",
+      "PackagePath": "staticwebassets\\particles.js-master\\particles.js-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Mickey\\source\\repos\\LaundryApplication\\LaundryApplication\\wwwroot\\vendor-list.html",
+      "PackagePath": "staticwebassets\\vendor-list.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LaundryApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LaundryApplication.props",
+      "PackagePath": "build\\LaundryApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LaundryApplication.props",
+      "PackagePath": "buildMultiTargeting\\LaundryApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LaundryApplication.props",
+      "PackagePath": "buildTransitive\\LaundryApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

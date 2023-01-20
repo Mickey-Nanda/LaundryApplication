@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+    <Folder Include="wwwroot\particles.js-master\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Home\checkout.cshtml" />
+    <None Include="Views\Home\checkout_with_account.cshtml" />
+    <None Include="Views\Home\myAccount.cshtml" />
+    <None Include="Views\Home\vendorDetails.cshtml" />
+  </ItemGroup>
+
+</Project>
